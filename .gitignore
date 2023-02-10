@@ -1,0 +1,9 @@
+*.jar
+/versions
+/logs
+/libraries
+
+# Worlds
+/world
+/world-nether
+/world-end
